@@ -2,7 +2,7 @@
 
 📄 Published in *Applied Chemical Engineering*, Vol. 9, Issue 1 (2026)  
 🔓 License: Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)  
-📘 DOI: 10.59429/ace.v9i1.5843
+🔗 **DOI:** [10.59429/ace.v9i1.5843](https://doi.org/10.59429/ace.v9i1.5843)
 
 ---
 
@@ -52,7 +52,7 @@ planning.
 ---
 
 ## Paper
-📄 **Full PDF:** `ACE-5843.pdf`
+📄 **Full Paper (PDF):** [ACE-5843.pdf](ACE-5843.pdf)
 
 ---
 
